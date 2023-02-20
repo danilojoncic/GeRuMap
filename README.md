@@ -1,6 +1,6 @@
 # GeRuMap
 ## Generic Rudementary mind Map 
-Projekat sa predmeta DSW na RAF-u,projekata je radjen u timu sa kolegom Markom Kocicem korisceni su dizajn sabloni i to sledeci:
+Projekat sa predmeta DSW na RAF-u.Korisceni su dizajn sabloni i to sledeci:
 - Composite
 - Factory method
 - Observer
@@ -9,4 +9,7 @@ Projekat sa predmeta DSW na RAF-u,projekata je radjen u timu sa kolegom Markom K
 - Singleton
 
 Notion :
+
 Dijagram sekvence :
+
+Tim: Danilo Joncic i Marko Kocic
